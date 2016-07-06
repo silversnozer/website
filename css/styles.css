@@ -1,0 +1,59 @@
+@import 'https://fonts.googleapis.com/css?family=Merienda';
+@import 'https://fonts.googleapis.com/css?family=Galada';
+
+body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #FFFFFF;
+}
+
+.nav{
+  background-color: #777778;
+  color: #660000;
+}
+
+.navbar{
+list-style: none;
+padding: 25px;
+padding-left: 8px;
+margin: 0;
+text-align: left;
+font-family: 'Merienda', cursive;
+}
+
+.nav-link{
+display: inline;
+padding: 17px;
+}
+
+a{
+  text-decoration: none;
+  color: #660000;
+  }
+
+a:hover, a:active, a:visited{
+  text-decoration: none;
+}
+
+.you{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  width: 280px;
+}
+
+.header{
+  text-align: center;
+  font-family: 'Merienda', cursive;
+  font-size: 50px;
+  color: #660000;
+}
+
+.info{
+  text-align: center;
+  font-weight: lighter;
+  color: #FFA7D0;
+  font-family: 'Galada', cursive;
+  font-size: 25px;
